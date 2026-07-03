@@ -228,6 +228,6 @@ Smart City Energy Insights
 
 ---
 
+## 👨‍💻 Author
 
-
-This project is intended for educational, portfolio, and business intelligence demonstration purposes.
+**Harsh Maradiya**
